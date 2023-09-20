@@ -1,3 +1,3 @@
 # Mluvka
-![screen](/screen/screen01.png)
-![screen](/screen/screen02.png)
+![screen](/readme/screen01.png)
+![screen](/ream/screen02.png)
