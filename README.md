@@ -11,4 +11,4 @@ You can also pair Mluvka with another typefaces...
 like [Libre Baskerville](https://github.com/impallari/Libre-Baskerville) by Impallari
 
 ## Download
-You can download this typeface in **[Releases](https://github.com/JiriKrblich/Mluvka/releases)** on left of this page!
+You can download this typeface in **[Releases](https://github.com/JiriKrblich/Mluvka/releases)** on the left side of this page!
