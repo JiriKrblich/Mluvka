@@ -1,5 +1,5 @@
 {
-.appVersion = "3134";
+.appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
 i,
@@ -12,7 +12,8 @@ jir,
 ":",
 ";",
 "…",
-j
+j,
+opobqdb
 );
 axes = (
 {
@@ -19855,7 +19856,7 @@ color = 4;
 glyphname = d;
 kernLeft = o;
 kernRight = d;
-lastChange = "2023-09-12 10:35:02 +0000";
+lastChange = "2023-10-09 13:27:02 +0000";
 layers = (
 {
 anchors = (
@@ -26332,7 +26333,7 @@ color = 4;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2021-11-11 09:54:12 +0000";
+lastChange = "2023-10-09 13:26:50 +0000";
 layers = (
 {
 anchors = (
@@ -83131,6 +83132,7 @@ question = 30;
 };
 "@MMK_L_o" = {
 "@MMK_R_f" = -10;
+"@MMK_R_o" = -5;
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -30;
 "@MMK_R_w" = -30;
@@ -83170,6 +83172,9 @@ x = -20;
 "@MMK_R_a" = -80;
 "@MMK_R_idieresis" = 110;
 "@MMK_R_y" = -30;
+};
+"@MMK_L_u" = {
+"@MMK_R_o" = -5;
 };
 "@MMK_L_v" = {
 "@MMK_R_a" = -20;
