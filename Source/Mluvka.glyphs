@@ -20372,7 +20372,7 @@ unicode = 509;
 glyphname = b;
 kernLeft = h;
 kernRight = o;
-lastChange = "2023-10-09 13:16:37 +0000";
+lastChange = "2023-10-09 13:17:55 +0000";
 layers = (
 {
 anchors = (
@@ -27617,7 +27617,7 @@ unicode = 331;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2023-10-09 13:15:08 +0000";
+lastChange = "2023-10-09 13:18:08 +0000";
 layers = (
 {
 anchors = (
@@ -29844,7 +29844,7 @@ unicode = 339;
 glyphname = p;
 kernLeft = n;
 kernRight = o;
-lastChange = "2023-10-09 13:15:04 +0000";
+lastChange = "2023-10-09 13:17:51 +0000";
 layers = (
 {
 anchors = (
@@ -81986,7 +81986,7 @@ question = 30;
 "@MMK_R_f" = -30;
 "@MMK_R_h" = 0;
 "@MMK_R_n" = -10;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -15;
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -10;
