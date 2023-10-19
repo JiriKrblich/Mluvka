@@ -81655,6 +81655,7 @@ instanceInterpolations = {
 "9398AC28-6BE1-4A79-9C94-3CBC2F226CE7" = 0.125;
 };
 name = Book;
+weightClass = 450;
 },
 {
 axesValues = (
