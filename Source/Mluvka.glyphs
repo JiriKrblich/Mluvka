@@ -1,5 +1,5 @@
 {
-.appVersion = "3133";
+.appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
 "‚",
@@ -30,8 +30,10 @@ ij,
 S,
 ijkl,
 i,
-opo,
-opoiagqbbpd
+opoa,
+opoiagqbbpd,
+"ĴǇ/aogonek.ss01",
+p
 );
 axes = (
 {
@@ -8506,7 +8508,7 @@ pos = (185,209);
 ref = circumflexcomb;
 }
 );
-width = 578;
+width = 570;
 },
 {
 layerId = "9398AC28-6BE1-4A79-9C94-3CBC2F226CE7";
@@ -8889,7 +8891,7 @@ pos = (531,0);
 ref = J;
 }
 );
-width = 1109;
+width = 1101;
 },
 {
 layerId = "9398AC28-6BE1-4A79-9C94-3CBC2F226CE7";
@@ -17042,7 +17044,7 @@ unicode = 7826;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2023-09-12 10:43:18 +0000";
+lastChange = "2023-10-19 22:20:31 +0000";
 layers = (
 {
 anchors = (
@@ -19697,7 +19699,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (323,0);
+pos = (324,0);
 ref = ogonekcomb;
 }
 );
@@ -27617,7 +27619,7 @@ unicode = 331;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2023-10-09 13:18:08 +0000";
+lastChange = "2023-10-19 22:20:31 +0000";
 layers = (
 {
 anchors = (
@@ -29844,7 +29846,7 @@ unicode = 339;
 glyphname = p;
 kernLeft = n;
 kernRight = o;
-lastChange = "2023-10-09 13:18:42 +0000";
+lastChange = "2023-10-19 22:23:28 +0000";
 layers = (
 {
 anchors = (
@@ -81646,6 +81648,16 @@ name = Regular;
 },
 {
 axesValues = (
+450
+);
+instanceInterpolations = {
+"30C2FD74-1A74-41AC-9C29-B288AE1DBDD7" = 0.875;
+"9398AC28-6BE1-4A79-9C94-3CBC2F226CE7" = 0.125;
+};
+name = Book;
+},
+{
+axesValues = (
 500
 );
 instanceInterpolations = {
@@ -82394,6 +82406,7 @@ question = 30;
 "@MMK_L_o" = {
 "@MMK_R_f" = -20;
 "@MMK_R_n" = -60;
+"@MMK_R_o" = -20;
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -10;
