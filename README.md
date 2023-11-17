@@ -10,5 +10,10 @@ You can also pair Mluvka with another typefaces...
 ![screen](/readme/LibreBaskerville.png)
 like [Libre Baskerville](https://github.com/impallari/Libre-Baskerville) by Impallari
 
+## Todo
+-[] Mluvka Monospace
+-[] Mluvka Condensed
+-[] Extended
+
 ## Download
-You can download this typeface in **[Releases](https://github.com/JiriKrblich/Mluvka/releases)** on the left side of this page!
+You can download this typeface in **[Releases](https://github.com/JiriKrblich/Mluvka/releases)** on the right side of this page!
