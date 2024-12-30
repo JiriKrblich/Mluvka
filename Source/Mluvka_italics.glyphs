@@ -13,7 +13,7 @@ jir,
 ";",
 "…",
 j,
-opobqdb
+"ťttttaťána"
 );
 axes = (
 {
@@ -19856,7 +19856,7 @@ color = 4;
 glyphname = d;
 kernLeft = o;
 kernRight = d;
-lastChange = "2023-10-09 13:28:55 +0000";
+lastChange = "2023-09-12 10:35:02 +0000";
 layers = (
 {
 anchors = (
@@ -26333,7 +26333,7 @@ color = 4;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2023-10-09 13:29:15 +0000";
+lastChange = "2021-11-11 09:54:12 +0000";
 layers = (
 {
 anchors = (
@@ -29096,7 +29096,7 @@ color = 4;
 glyphname = q;
 kernLeft = o;
 kernRight = u;
-lastChange = "2023-10-09 13:28:58 +0000";
+lastChange = "2021-11-11 09:41:25 +0000";
 layers = (
 {
 anchors = (
@@ -30964,7 +30964,7 @@ unicode = 359;
 glyphname = tcaron;
 kernLeft = t;
 kernRight = tcaron;
-lastChange = "2022-09-02 15:28:08 +0000";
+lastChange = "2024-12-30 14:09:44 +0000";
 layers = (
 {
 layerId = "1C1CFC13-4213-4775-A214-C31251F9A91A";
@@ -31009,11 +31009,11 @@ pos = (196,0);
 ref = caroncomb.alt;
 }
 );
-width = 530;
+width = 507;
 }
 );
 metricLeft = "=t";
-metricRight = "=t/2";
+metricRight = "=t-40";
 unicode = 357;
 },
 {
@@ -81961,19 +81961,6 @@ name = Italic;
 },
 {
 axesValues = (
-450
-);
-instanceInterpolations = {
-"9D27F576-B54C-4464-AC1E-5B62749637F3" = 0.125;
-"F445EC8D-29E3-46C7-99DD-9E4BBA6B70C5" = 0.875;
-};
-isItalic = 1;
-linkStyle = Book;
-name = "Book Italic";
-weightClass = 450;
-},
-{
-axesValues = (
 500
 );
 instanceInterpolations = {
@@ -82025,7 +82012,7 @@ weightClass = 800;
 },
 {
 axesValues = (
-0
+200
 );
 customParameters = (
 {
@@ -82034,9 +82021,7 @@ value = "F445EC8D-29E3-46C7-99DD-9E4BBA6B70C5";
 }
 );
 instanceInterpolations = {
-"1C1CFC13-4213-4775-A214-C31251F9A91A" = 1.11111;
-"9D27F576-B54C-4464-AC1E-5B62749637F3" = -0.44444;
-"F445EC8D-29E3-46C7-99DD-9E4BBA6B70C5" = 0.33333;
+"1C1CFC13-4213-4775-A214-C31251F9A91A" = 1;
 };
 name = Regular;
 type = variable;
@@ -82321,9 +82306,6 @@ space = 0;
 };
 "@MMK_L_o" = {
 "@MMK_R_f" = -20;
-"@MMK_R_h" = -5;
-"@MMK_R_n" = -5;
-"@MMK_R_o" = -5;
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -10;
@@ -82368,9 +82350,6 @@ x = -10;
 "@MMK_R_o" = -20;
 "@MMK_R_u" = -20;
 "@MMK_R_y" = -10;
-};
-"@MMK_L_u" = {
-"@MMK_R_o" = -5;
 };
 "@MMK_L_v" = {
 "@MMK_R_a" = -20;
@@ -83151,7 +83130,6 @@ question = 30;
 };
 "@MMK_L_o" = {
 "@MMK_R_f" = -10;
-"@MMK_R_o" = -5;
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -30;
 "@MMK_R_w" = -30;
@@ -83191,9 +83169,6 @@ x = -20;
 "@MMK_R_a" = -80;
 "@MMK_R_idieresis" = 110;
 "@MMK_R_y" = -30;
-};
-"@MMK_L_u" = {
-"@MMK_R_o" = -5;
 };
 "@MMK_L_v" = {
 "@MMK_R_a" = -20;
@@ -83342,15 +83317,11 @@ value = "Gumpita Rahayu & Jiří Krblich";
 );
 },
 {
-key = vendorID;
-value = TOKO;
-},
-{
 key = descriptions;
 values = (
 {
 language = dflt;
-value = "Edited version of Plus Jakarta Sans by Gumpita Rahayu";
+value = "Edited version of Plus Jakarta Sans, originally by Gumpita Rahayu";
 }
 );
 },
@@ -83451,5 +83422,5 @@ tH = "40";
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
