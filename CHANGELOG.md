@@ -1,7 +1,7 @@
 # Changelog
 
 ### version 1.0
-	- Font released
+	- Font released (fork of Plus Jakarta Sans v2.600)
 	- Changed diacritics from squares to dots
 
 ### version 1.001
