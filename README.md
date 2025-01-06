@@ -13,7 +13,7 @@ like [Libre Baskerville](https://github.com/impallari/Libre-Baskerville) by Impa
 ## 📝 How to use
 
 ## 🖥 In use
-Where can you find the typeface Mluvka? For example, in the TV show ![Extraktoři](https://www.youtube.com/watch?v=HfElxXhUtsA) by Nova TV or on ![Kalypso's Instagram profile](https://www.instagram.com/p/C6lH_V0rT-g/?utm_source=ig_web_copy_link).
+Where can you find the typeface Mluvka? For example, in the TV show [Extraktoři](https://www.youtube.com/watch?v=HfElxXhUtsA) by Nova TV or on [Kalypso's Instagram profile](https://www.instagram.com/p/C6lH_V0rT-g/?utm_source=ig_web_copy_link).
 
 If you have used the typeface, feel free to write and send your usage!
 
