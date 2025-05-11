@@ -24,6 +24,8 @@ If you have used the typeface, feel free to write and send your usage!
 - [ ] Check out kerning
 - [x] Fix ogonek characters
 - [x] Check diacritics & fix it
+- [ ] quoteleft and quoteright(also  quotedblright)
+- [ ] Support of Cyrillic set
 
 **Alternative characters**
 - [ ] Alternative "t" (simple like Futura)
